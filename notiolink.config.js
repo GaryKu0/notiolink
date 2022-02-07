@@ -7,7 +7,7 @@ module.exports = {
     'Self-hostable branded link shortener built with Next.js & Notion API',
 
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  deployUrl: 'https://id0x.tk',
+  deployUrl: 'https://ko.sususu.su',
 
   /**
    * Color theme for the app
